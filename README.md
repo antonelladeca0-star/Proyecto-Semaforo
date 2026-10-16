@@ -21,3 +21,11 @@ utilizando Arduino y la plataforma Wokwi.
 - Wokwi
 - GitHub
 - Lenguaje C++ para Arduino
+
+## Requerimientos funcionales
+
+**RF1:** El sistema debe encender la luz roja para indicar que los vehículos deben detenerse.
+**RF2:** El sistema debe encender la luz verde para indicar que los vehículos pueden avanzar.
+**RF3:** El sistema debe encender la luz amarilla para indicar que los vehículos deben prepararse para detenerse.
+**RF4:** El sistema debe cambiar las luces automáticamente siguiendo una secuencia establecida.
+**RF5:** El sistema debe repetir continuamente la secuencia de las luces del semáforo.
