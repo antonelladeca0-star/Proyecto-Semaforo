@@ -53,3 +53,17 @@ utilizando Arduino y la plataforma Wokwi.
 ## Simulación en Wokwi
 
 [Hacé clic aquí para ver y probar el semáforo](https://wokwi.com/projects/467907282201016321)
+
+## Presupuesto de componentes
+
+| Componente | Cantidad | Precio unitario estimado | Subtotal estimado |
+|---|---:|---:|---:|
+| Arduino Uno | 1 | $12.000 | $12.000 |
+| LED rojo | 1 | $200 | $200 |
+| LED amarillo | 1 | $200 | $200 |
+| LED verde | 1 | $200 | $200 |
+| Resistencias de 220 ohmios | 3 | $100 | $300 |
+| Cables de conexión | 5 | $100 | $500 |
+| **TOTAL ESTIMADO** | | | **$13.400** |
+
+*Nota: los precios son orientativos y deben verificarse con proveedores locales. Los componentes virtuales de Wokwi no tienen costo.*
