@@ -37,3 +37,11 @@ utilizando Arduino y la plataforma Wokwi.
 3. **RNF3 - Tiempo de respuesta:** Las luces deben cambiar después de los tiempos programados.
 4. **RNF4 - Seguridad eléctrica:** Los LED deben conectarse con resistencias adecuadas para evitar daños.
 5. **RNF5 - Mantenibilidad:** El código debe estar ordenado y comentado para facilitar su comprensión y modificación.
+
+## Historias de usuario
+
+1. **HU1:** Como conductor, quiero ver la luz roja para saber cuándo debo detenerme.
+2. **HU2:** Como conductor, quiero ver la luz verde para saber cuándo puedo avanzar.
+3. **HU3:** Como conductor, quiero ver la luz amarilla para saber cuándo debo prepararme para detenerme.
+4. **HU4:** Como usuario del sistema, quiero que las luces cambien automáticamente para que el semáforo funcione sin intervención manual.
+5. **HU5:** Como estudiante, quiero simular el semáforo en Wokwi para comprobar que las luces funcionen correctamente.
