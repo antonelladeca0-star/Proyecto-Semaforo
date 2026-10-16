@@ -49,3 +49,7 @@ utilizando Arduino y la plataforma Wokwi.
 ## Diagrama de flujo
 
 ![Diagrama de flujo del semáforo](diagrama-semaforo.png)
+
+## Simulación en Wokwi
+
+[Hacé clic aquí para ver y probar el semáforo](https://wokwi.com/projects/467907282201016321)
