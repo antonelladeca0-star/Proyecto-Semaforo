@@ -45,7 +45,3 @@ utilizando Arduino y la plataforma Wokwi.
 3. **HU3:** Como conductor, quiero ver la luz amarilla para saber cuándo debo prepararme para detenerme.
 4. **HU4:** Como usuario del sistema, quiero que las luces cambien automáticamente para que el semáforo funcione sin intervención manual.
 5. **HU5:** Como estudiante, quiero simular el semáforo en Wokwi para comprobar que las luces funcionen correctamente.
-
-## Diagrama de flujo
-
-![Diagrama de flujo del semáforo](diagrama-semaforo.png)
