@@ -24,8 +24,16 @@ utilizando Arduino y la plataforma Wokwi.
 
 ## Requerimientos funcionales
 
-**RF1:** El sistema debe encender la luz roja para indicar que los vehículos deben detenerse.
-**RF2:** El sistema debe encender la luz verde para indicar que los vehículos pueden avanzar.
-**RF3:** El sistema debe encender la luz amarilla para indicar que los vehículos deben prepararse para detenerse.
-**RF4:** El sistema debe cambiar las luces automáticamente siguiendo una secuencia establecida.
-**RF5:** El sistema debe repetir continuamente la secuencia de las luces del semáforo.
+1. **RF1:** El sistema debe encender la luz roja para indicar que los vehículos deben detenerse.
+2. **RF2:** El sistema debe encender la luz verde para indicar que los vehículos pueden avanzar.
+3. **RF3:** El sistema debe encender la luz amarilla para indicar que los vehículos deben prepararse para detenerse.
+4. **RF4:** El sistema debe cambiar las luces automáticamente siguiendo una secuencia establecida.
+5. **RF5:** El sistema debe repetir continuamente la secuencia de las luces del semáforo.
+
+## Requerimientos no funcionales
+
+1. **RNF1 - Visibilidad:** Las luces LED deben verse claramente para distinguir los colores del semáforo.
+2. **RNF2 - Confiabilidad:** El sistema debe repetir la secuencia de luces sin detenerse inesperadamente.
+3. **RNF3 - Tiempo de respuesta:** Las luces deben cambiar después de los tiempos programados.
+4. **RNF4 - Seguridad eléctrica:** Los LED deben conectarse con resistencias adecuadas para evitar daños.
+5. **RNF5 - Mantenibilidad:** El código debe estar ordenado y comentado para facilitar su comprensión y modificación.
